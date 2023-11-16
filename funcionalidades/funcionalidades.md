@@ -7,8 +7,11 @@ Essa feature tem como objetivo implementar o registro de empréstimos no sistema
 
 Feito por Thays
 
+# 6 Relatório de Livros Disponíveis
+
 ## Descrição
 Essa feature tem como objetivo implementar um relatório de livros disponíveis no sistema. A equipe poderá gerar relatórios que mostram os livros disponíveis no catálogo, facilitando a gestão do acervo.
 
 ## Fluxo de Desenvolvimento
-Pedro 
+
+Feito por Pedro Avelino
