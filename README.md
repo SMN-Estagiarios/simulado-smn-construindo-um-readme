@@ -9,7 +9,7 @@ Essa feature tem como objetivo implementar a funcionalidade de cadastro de livro
 
 ## Fluxo de Desenvolvimento
 
-1. **Criação de uma Nova Feature:**
+### 1. **Criação de uma Nova Feature:**
     - Cada desenvolvedor inicia uma nova funcionalidade criando uma branch de feature a partir de **`main`**.
 
         ```bash
@@ -17,7 +17,7 @@ Essa feature tem como objetivo implementar a funcionalidade de cadastro de livro
         git pull origin main
         git checkout -b feature-cadastro-livros
         ```
-2. **Desenvolvimento da Funcionalidade:**
+### 2. **Desenvolvimento da Funcionalidade:**
     - O desenvolvedor trabalha na sua branch de feature, implementando a funcionalidade de cadastro de livros.
         ```bash
         # Faça as alterações necessárias
@@ -26,12 +26,12 @@ Essa feature tem como objetivo implementar a funcionalidade de cadastro de livro
         ```
     - **Erro no README:**
         - O desenvolvedor percebe que cometeu um erro no README, mas já realizou um commit.
-3. **Reset para Correção no README:**
+### 3. **Reset para Correção no README:**
     - O desenvolvedor decide fazer um reset para corrigir o erro no README.
         ```bash
         git reset --soft HEAD^
         ```
-4. **Correção do README:**
+### 4. **Correção do README:**
     - O desenvolvedor corrige o erro no README.
         ```markdown
         # Cadastro de Livros
@@ -72,13 +72,13 @@ Essa feature tem como objetivo implementar a funcionalidade de cadastro de livro
         5. **Abertura de Pull Request:**
             - O desenvolvedor abre um Pull Request (PR) para a branch **`homolog`** ou **`staging`**, dependendo da nomenclatura utilizada pela equipe.
         ```
-5. **Commit Corrigido:**
+### 5. **Commit Corrigido:**
     - O desenvolvedor faz um novo commit com o README corrigido.
         ```bash
         git add .
         git commit -m "Corrige erro no README"
         ```
-6. **Continuação do Fluxo de Desenvolvimento:**
+### 6. **Continuação do Fluxo de Desenvolvimento:**
     - O desenvolvedor continua com o fluxo de desenvolvimento normal.
         ```bash
         # Continuar com o fluxo de desenvolvimento normal
