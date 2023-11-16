@@ -1,3 +1,4 @@
+
 # 1 Registro de Empréstimos
 
 ## Descrição
@@ -6,6 +7,15 @@ Essa feature tem como objetivo implementar o registro de empréstimos no sistema
 ## Fluxo de Desenvolvimento
 
 Feito por Thays
+
+# 4 Reserva de Livros
+
+## Descrição
+Essa feature tem como objetivo implementar a funcionalidade de reserva de livros no sistema. Os usuários poderão reservar livros disponíveis, garantindo sua disponibilidade para empréstimo posterior.
+
+## Fluxo de Desenvolvimento
+
+Feito por Danyel
 
 # 7 Controle de Multas
 
