@@ -7,6 +7,16 @@ Essa feature tem como objetivo implementar o registro de empréstimos no sistema
 
 Feito por Thays
 
+# 2 Devolução de Livros
+
+## Descrição
+Essa feature tem como objetivo implementar o processo de devolução de livros no sistema. Os usuários poderão registrar a devolução de livros emprestados, atualizando o status no catálogo.
+
+
+## Fluxo de Desenvolvimento
+[...]
+
+
 # 3 Pesquisa por Título
 
 ## Descrição
