@@ -67,3 +67,8 @@ Essa feature tem como objetivo implementar um processo formal de revisão de có
 [...]
 
 
+## Descrição
+Essa feature tem como objetivo implementar notificações por e-mail no sistema. Os usuários receberão alertas e informações relevantes relacionadas às atividades, como empréstimos, devoluções e reservas.
+
+## Fluxo de Desenvolvimento
+Feito por OrcinoNeto
