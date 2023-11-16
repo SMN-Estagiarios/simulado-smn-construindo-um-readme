@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> 292f2e5e90e8bfb677a5348eba47b1bd0aeaa430
 # 1 Registro de Empréstimos
 
 ## Descrição
