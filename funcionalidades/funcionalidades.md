@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 292f2e5e90e8bfb677a5348eba47b1bd0aeaa430
 # 1 Registro de Empréstimos
 
 ## Descrição
@@ -25,6 +28,13 @@ Essa feature tem como objetivo implementar um sistema de controle de multas no c
 ## Fluxo de Desenvolvimento
 Feito por Isabella
 
+# 10 Recomendações de Livros
+
+## Descrição
+Essa feature tem como objetivo implementar um sistema de recomendações de livros no sistema. Os usuários receberão sugestões com base em seus históricos de leitura e preferências.
+
+## Fluxo de Desenvolvimento
+Algoritmo de preferência do usuário -> Aba "para você" no App -> Sessão "Talvez você pode gostar" em outros livros
 
 # 11 Revisão de Código
 
@@ -33,3 +43,7 @@ Essa feature tem como objetivo implementar um processo formal de revisão de có
 
 ## Fluxo de Desenvolvimento
 [...]
+
+
+
+
