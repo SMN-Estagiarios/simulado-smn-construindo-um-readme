@@ -6,3 +6,48 @@ Essa feature tem como objetivo implementar o registro de empréstimos no sistema
 ## Fluxo de Desenvolvimento
 
 Feito por Thays
+
+# 4 Reserva de Livros
+
+## Descrição
+Essa feature tem como objetivo implementar a funcionalidade de reserva de livros no sistema. Os usuários poderão reservar livros disponíveis, garantindo sua disponibilidade para empréstimo posterior.
+
+## Fluxo de Desenvolvimento
+
+Feito por Danyel
+
+# 7 Controle de Multas
+
+## Descrição
+Essa feature tem como objetivo implementar um sistema de controle de multas no caso de atrasos na devolução de livros. Os usuários serão notificados e terão a possibilidade de pagar as multas.
+
+## Fluxo de Desenvolvimento
+Feito por Isabella
+
+# 9 Integração de Pagamento
+
+## Descrição
+Essa feature tem como objetivo integrar um sistema de pagamento ao sistema. Os usuários terão a opção de efetuar pagamentos relacionados a multas ou taxas por meio de métodos de pagamento online.
+
+## Fluxo de Desenvolvimento
+[adriel alexander](https://github.com/AdrielProg)
+
+# 10 Recomendações de Livros
+
+## Descrição
+Essa feature tem como objetivo implementar um sistema de recomendações de livros no sistema. Os usuários receberão sugestões com base em seus históricos de leitura e preferências.
+
+## Fluxo de Desenvolvimento
+Algoritmo de preferência do usuário -> Aba "para você" no App -> Sessão "Talvez você pode gostar" em outros livros
+
+# 11 Revisão de Código
+
+## Descrição
+Essa feature tem como objetivo implementar um processo formal de revisão de código no sistema. Os desenvolvedores irão revisar o código uns dos outros, fornecendo feedback construtivo para garantir a qualidade do código-fonte.
+
+## Fluxo de Desenvolvimento
+[...]
+
+
+
+
