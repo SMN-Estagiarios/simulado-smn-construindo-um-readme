@@ -24,6 +24,14 @@ Essa feature tem como objetivo implementar um sistema de controle de multas no c
 ## Fluxo de Desenvolvimento
 Feito por Isabella
 
+# 8 Melhorias de UI/UX
+
+## Descrição
+Essa feature tem como objetivo realizar melhorias na interface do usuário (UI) e na experiência do usuário (UX) no sistema. As atualizações visuais tornarão a interação mais intuitiva e agradável.
+
+## Fluxo de Desenvolvimento
+[...]
+
 # 9 Integração de Pagamento
 
 ## Descrição
