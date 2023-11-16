@@ -25,6 +25,14 @@ Essa feature tem como objetivo implementar a funcionalidade de reserva de livros
 
 Feito por Danyel
 
+# 5 Notificações por E-mail
+
+## Descrição
+Essa feature tem como objetivo implementar notificações por e-mail no sistema. Os usuários receberão alertas e informações relevantes relacionadas às atividades, como empréstimos, devoluções e reservas.
+
+## Fluxo de Desenvolvimento
+OrcinoNeto
+
 # 7 Controle de Multas
 
 ## Descrição
@@ -66,9 +74,3 @@ Essa feature tem como objetivo implementar um processo formal de revisão de có
 ## Fluxo de Desenvolvimento
 [...]
 
-
-## Descrição
-Essa feature tem como objetivo implementar notificações por e-mail no sistema. Os usuários receberão alertas e informações relevantes relacionadas às atividades, como empréstimos, devoluções e reservas.
-
-## Fluxo de Desenvolvimento
-Feito por OrcinoNeto
