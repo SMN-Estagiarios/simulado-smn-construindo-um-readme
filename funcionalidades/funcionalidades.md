@@ -8,6 +8,15 @@ Essa feature tem como objetivo implementar o registro de empréstimos no sistema
 
 Feito por Thays
 
+# 2 Devolução de Livros
+
+## Descrição
+Essa feature tem como objetivo implementar o processo de devolução de livros no sistema. Os usuários poderão registrar a devolução de livros emprestados, atualizando o status no catálogo.
+
+
+## Fluxo de Desenvolvimento
+[...]
+
 # 3 Pesquisa por Título
 
 ## Descrição
@@ -25,6 +34,14 @@ Essa feature tem como objetivo implementar a funcionalidade de reserva de livros
 
 Feito por Danyel
 
+# 5 Notificações por E-mail
+
+## Descrição
+Essa feature tem como objetivo implementar notificações por e-mail no sistema. Os usuários receberão alertas e informações relevantes relacionadas às atividades, como empréstimos, devoluções e reservas.
+
+## Fluxo de Desenvolvimento
+OrcinoNeto
+
 # 7 Controle de Multas
 
 ## Descrição
@@ -40,6 +57,14 @@ Essa feature tem como objetivo realizar melhorias na interface do usuário (UI) 
 
 ## Fluxo de Desenvolvimento
 [...]
+
+# 9 Integração de Pagamento
+
+## Descrição
+Essa feature tem como objetivo integrar um sistema de pagamento ao sistema. Os usuários terão a opção de efetuar pagamentos relacionados a multas ou taxas por meio de métodos de pagamento online.
+
+## Fluxo de Desenvolvimento
+[adriel alexander](https://github.com/AdrielProg)
 
 # 10 Recomendações de Livros
 
